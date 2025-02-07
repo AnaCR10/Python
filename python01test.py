@@ -1,2 +1,2 @@
 print("Mi primer Python, hoy es jueves")
-print("otro mensaje")
+print("otro mensaje    kjsdfijsgijsbd")
